@@ -1,0 +1,9 @@
+C:\Users\APU\Desktop\Ejemplos .NET\DataProvider\Curso.DAL\bin\Debug\Curso.DAL.dll
+C:\Users\APU\Desktop\Ejemplos .NET\DataProvider\Curso.DAL\bin\Debug\Curso.DAL.pdb
+C:\Users\APU\Desktop\Ejemplos .NET\DataProvider\Curso.DAL\obj\Debug\Curso.DAL.csprojAssemblyReference.cache
+C:\Users\APU\Desktop\Ejemplos .NET\DataProvider\Curso.DAL\obj\Debug\Curso.DAL.csproj.CoreCompileInputs.cache
+C:\Users\APU\Desktop\Ejemplos .NET\DataProvider\Curso.DAL\obj\Debug\Curso.DAL.dll
+C:\Users\APU\Desktop\Ejemplos .NET\DataProvider\Curso.DAL\obj\Debug\Curso.DAL.pdb
+C:\Users\APU\Desktop\Ejemplos .NET\DataProvider\Curso.DAL\bin\Debug\Entidades.DO.dll
+C:\Users\APU\Desktop\Ejemplos .NET\DataProvider\Curso.DAL\bin\Debug\Entidades.DO.pdb
+C:\Users\APU\Desktop\Ejemplos .NET\DataProvider\Curso.DAL\obj\Debug\Curso.DAL.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\APU\Desktop\Ejemplos .NET\DataProvider\Entidades.DO\bin\Debug\Entidades.DO.dll
+C:\Users\APU\Desktop\Ejemplos .NET\DataProvider\Entidades.DO\bin\Debug\Entidades.DO.pdb
+C:\Users\APU\Desktop\Ejemplos .NET\DataProvider\Entidades.DO\obj\Debug\Entidades.DO.csprojAssemblyReference.cache
+C:\Users\APU\Desktop\Ejemplos .NET\DataProvider\Entidades.DO\obj\Debug\Entidades.DO.csproj.CoreCompileInputs.cache
+C:\Users\APU\Desktop\Ejemplos .NET\DataProvider\Entidades.DO\obj\Debug\Entidades.DO.dll
+C:\Users\APU\Desktop\Ejemplos .NET\DataProvider\Entidades.DO\obj\Debug\Entidades.DO.pdb
